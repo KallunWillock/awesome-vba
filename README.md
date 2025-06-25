@@ -68,10 +68,19 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-XML?style&logo=github&label) [VBA-XML](https://github.com/VBA-tools/VBA-XML) - XML conversion and parsing.
 
+#### CAB
+
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/GustavBrock/VBA.Compress?style&logo=github&label) [VBA.Compress](https://github.com/GustavBrock/VBA.Compress/tree/master) - Compress and decompress cab (cabinet) files and folders like Windows Explorer.
+
+#### TAR/TGZ
+
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/GustavBrock/VBA.Compress?style&logo=github&label) [VBA.Compress](https://github.com/GustavBrock/VBA.Compress/tree/master) - Tar and untar archive folders like Windows Explorer.
+
 #### ZIP
 
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/Excel-ZipTools?style&logo=github&label) [Excel-ZipTools](https://github.com/cristianbuse/Excel-ZipTools/tree/master) - Parse, read, and extract data from, Zip files. Written in pure vba.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/KallunWillock/vbaSquash?style&logo=github&label) [vbaSquash](https://github.com/KallunWillock/vbaSquash/tree/master) - Compress and decompress files and byte arrays using the built-in `cabinet.dll` functions available on Windows 8+. Provides access to compression algorithms `MSZIP`, `XPRESS`, `XPRESS_HUFF`, and `LZMS`.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/GustavBrock/VBA.Compress?style&logo=github&label) [VBA.Compress](https://github.com/GustavBrock/VBA.Compress/tree/master) - Zip and unzip zip files and folders like Windows Explorer.
 
 #### PDF
 
@@ -103,6 +112,14 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Beakerboy/VBA-Math-Objects?style&logo=github&label) [VBA-Math-Objects](https://github.com/Beakerboy/VBA-Math-Objects) - A matrix and vector library.
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/ws-garcia/VBA-float?style&logo=github&label) [VBA Float](https://github.com/ws-garcia/VBA-float ) - An utility to perform computations over big integers and rational numbers with thousands digits.
+
+- [![p_win]](#-) [![p_nom]](#-) [![a_ac]](#-) ![GHStars](https://img.shields.io/github/stars/GustavBrock/VBA.Quartiles?style&logo=github&label) [VBA.Quartiles](https://github.com/GustavBrock/VBA.Quartiles) - Calculate quartiles in 20 ways and medians in Microsoft Access.
+
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/ws-garcia/VBA-float?style&logo=github&label) [VBA.Round](https://github.com/GustavBrock/VBA.Round) - Superior functions for rounding Currency, Decimal, and Double up, down, by 4/5, or to a specified count of significant figures; rounding (and scaling) all items of a series of numbers to have the sum to match a desired rounded total; rounding by the Power of Two (Base 2), up, down, or by 4/5; convert and format imperial distance (feet and inches) with high precision.
+
+### Cryptography
+
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/GustavBrock/VBA.Cryptography?style&logo=github&label) [VBA.Cryptography](https://github.com/GustavBrock/VBA.Cryptography) - Utilise Microsoft's _Next Generation Cryptography (CNG)_ API in VBA for encrypting/decrypting, hashing, and password storage (Access).
 
 ### Database tools
 
@@ -204,6 +221,11 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Drag and drop control](https://www.vbforums.com/showthread.php?888843-Load-image-into-STATIC-control-Win32&p=5496575&viewfull=1#post5496575) - Dragging and dropping image controls around a userform.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/KallunWillock/EZPZMouseController?style&logo=github&label) [EZPZMouseController](https://github.com/KallunWillock/EZPZMouseController/) - An example of using native Microsoft Ink Collector to detect mouse wheel and mouse move events.
+
+### UI Access forms
+
+- [![p_win]](#-) [![p_nom]](#-) [![a_ac]](#-) ![GHStars](https://img.shields.io/github/stars/GustavBrock/VBA.ModernBox?style&logo=github&label) [VBA.ModernBox](https://github.com/GustavBrock/VBA.ModernBox/) - Modern/Metro style message box and input box for Microsoft Access 2013+.
+
 
 ### Low level examples
 
